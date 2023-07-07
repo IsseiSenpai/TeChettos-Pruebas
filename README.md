@@ -22,7 +22,7 @@
 <div align="justify">El objetivo de este manual es proporcionar una guía detallada y accesible para que los usuarios puedan disfrutar plenamente del videojuego educativo "DelCastellano". Aquí encontrarán instrucciones claras sobre cómo utilizar las principales funciones del juego, así como soluciones a posibles problemas y respuestas a preguntas frecuentes.</div>
 
 ## Audiencia  
-<div align="justify">Este manual está destinado a los jugadores del videojuego educativo "DelCastellano". La audiencia prevista incluye a estudiantes de secundaria, profesores, padres y cualquier persona interesada en aprender y practicar habilidades de lengua y literatura a través de una experiencia de juego interactiva. Además, puede ser útil para aquellos que buscan mejorar su comprensión y aplicación de los conceptos abordados en el juego.</div>
+<div align="justify">Este manual está destinado a los jugadores del videojuego educativo "DelCastellano". La audiencia prevista incluye a estudiantes de secundaria de 2do año, profesores y cualquier persona interesada en aprender y practicar habilidades de lengua y literatura a través de una experiencia de juego interactiva. Además, puede ser útil para aquellos que buscan mejorar su comprensión y aplicación de los conceptos abordados en el juego.</div>
 
 ## Alcance  
 <div align="justify">Este manual cubre todas las funciones principales del videojuego educativo "DelCastellano". Sin embargo, tenga en cuenta que algunas características avanzadas o específicas pueden no estar incluidas en este manual. Además, se debe tener en cuenta que el manual no cubre el uso de herramientas externas o plataformas adicionales relacionadas con el juego.</div>
@@ -59,19 +59,19 @@
 ### Configuración  
 - Accede a la opción "Configuración" en el menú principal para ajustar las preferencias del juego, como el volumen de sonido y los controles.
 
-## Link de Descargas
+## Link de Descargas y de interes
 - [Intro del juego](url_de_descarga_intro)
 - [Video promocional](url_de_descarga_video_promocional)
 - [Recursos gráficos](url_de_descarga_recursos_gráficos)
 - [Informe curricular de la app](url_de_descarga_informe_curricular)
 - [Videojuego "DelCastellano" - V.0.2](url_de_descarga_videojuego)
 - [Código fuente del videojuego](url_de_descarga_código_fuente)
-- [Documentación del código fuente](url_de_descarga_documentación_código_fuente)
+- [Documentación del código fuente](https://isseisenpai.github.io/Doxyger/)
 
 ## Preguntas Frecuentes  
 <details>
   <summary>¿Cómo puedo descargar e instalar el videojuego "DelCastellano" en mi dispositivo?</summary>
-  <p align="justify">Para descargar e instalar el videojuego "DelCastellano", visita nuestro repositorio de GitHub (www.delcastellano.com) y sigue las instrucciones de descarga.</p>
+  <p align="justify">Para descargar e instalar el videojuego "DelCastellano", ve al acapite Guía de uso > Descarga e Instalación o en al apartado de descargas y sigue las instrucciones de descarga.</p>
 </details>
 
 <details>
