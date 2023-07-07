@@ -12,7 +12,8 @@
 - [Objetivo del Manual](#objetivo-del-manual)  
 - [Audiencia](#audiencia)  
 - [Alcance](#alcance)  
-- [Guía de Uso](#guía-de-uso)  
+- [Guía de Uso](#guía-de-uso)
+- [Link de Descargas y de Interés](#link-de-descargas-y-de-interés) 
 - [Preguntas Frecuentes](#preguntas-frecuentes)  
 
 ## Introducción  
@@ -59,7 +60,7 @@
 ### Configuración  
 - Accede a la opción "Configuración" en el menú principal para ajustar las preferencias del juego, como el volumen de sonido y los controles.
 
-## Link de Descargas y de interes
+## Link de Descargas y de Interés
 - [Intro del juego](url_de_descarga_intro)
 - [Video promocional](url_de_descarga_video_promocional)
 - [Recursos gráficos](url_de_descarga_recursos_gráficos)
