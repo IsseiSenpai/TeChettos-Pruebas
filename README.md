@@ -7,38 +7,57 @@
   <img src="https://github.com/IsseiSenpai/TeChettos-Pruebas/blob/main/IMG-REDME/1.png" alt="Imagen">
 </p>
 
-<div style="display: flex;">
-  <div style="width: 50%;">
-    <h2>ÍNDICE</h2>
-    <ul>
-      <li><a href="#introducción">Introducción</a></li>
-      <li><a href="#objetivo-del-manual">Objetivo del Manual</a></li>
-      <li><a href="#audiencia">Audiencia</a></li>
-      <li><a href="#alcance">Alcance</a></li>
-      <li><a href="#guía-de-uso">Guía de Uso</a></li>
-      <li><a href="#link-de-descargas-y-de-interés">Link de Descargas y de Interés</a></li>
-      <li><a href="#preguntas-frecuentes">Preguntas Frecuentes</a></li>
-    </ul>
-  </div>
-  <div style="width: 50%;">
-    <p align="center">
-      <img src="https://github.com/IsseiSenpai/TeChettos-Pruebas/blob/main/IMG-REDME/EnemigoEDLE.gif" alt="Imagen">
-    </p>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td width="50%">
+      <h2 align="center">ÍNDICE</h2>
+      <ul>
+        <li><a href="#introducción">Introducción</a></li>
+        <li><a href="#objetivo-del-manual">Objetivo del Manual</a></li>
+        <li><a href="#audiencia">Audiencia</a></li>
+        <li><a href="#alcance">Alcance</a></li>
+        <li><a href="#guía-de-uso">Guía de Uso</a></li>
+        <li><a href="#link-de-descargas-y-de-interés">Link de Descargas y de Interés</a></li>
+        <li><a href="#preguntas-frecuentes">Preguntas Frecuentes</a></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <p align="right">
+        <img src="https://github.com/IsseiSenpai/TeChettos-Pruebas/blob/main/IMG-REDME/EnemigoEDLE.gif" alt="Imagen">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Introducción  
 <div align="justify">El manual de usuario del videojuego educativo "DelCastellano" tiene como objetivo proporcionar a los usuarios una guía completa sobre cómo utilizar y aprovechar al máximo todas las funciones y características de la aplicación. Este manual está diseñado para ayudar a los jugadores a comprender el juego, realizar las acciones necesarias y resolver cualquier problema que puedan encontrar durante su experiencia de juego.</div>
 
 ## Objetivo del Manual  
 <div align="justify">El objetivo de este manual es proporcionar una guía detallada y accesible para que los usuarios puedan disfrutar plenamente del videojuego educativo "DelCastellano". Aquí encontrarán instrucciones claras sobre cómo utilizar las principales funciones del juego, así como soluciones a posibles problemas y respuestas a preguntas frecuentes.</div>
+<br>
+<table>
+  <tr>
+    <td align="right">
+      <img src="https://github.com/IsseiSenpai/TeChettos-Pruebas/blob/main/IMG-REDME/Ataque.gif" width="298" height="298">
+    </td>
+    <td>
+      <h2>Audiencia</h2>
+      <div align="justify">Este manual está destinado a los jugadores del videojuego educativo "DelCastellano". La audiencia prevista incluye a estudiantes de secundaria de 2do año, profesores y cualquier persona interesada en aprender y practicar habilidades de lengua y literatura a través de una experiencia de juego interactiva. Además, puede ser útil para aquellos que buscan mejorar su comprensión y aplicación de los conceptos abordados en el juego.</div>
+    </td>
+  </tr>
+</table>
 
-## Audiencia  
-<div align="justify">Este manual está destinado a los jugadores del videojuego educativo "DelCastellano". La audiencia prevista incluye a estudiantes de secundaria de 2do año, profesores y cualquier persona interesada en aprender y practicar habilidades de lengua y literatura a través de una experiencia de juego interactiva. Además, puede ser útil para aquellos que buscan mejorar su comprensión y aplicación de los conceptos abordados en el juego.</div>
-
-## Alcance  
-<div align="justify">Este manual cubre todas las funciones principales del videojuego educativo "DelCastellano". Sin embargo, tenga en cuenta que algunas características avanzadas o específicas pueden no estar incluidas en este manual. Además, se debe tener en cuenta que el manual no cubre el uso de herramientas externas o plataformas adicionales relacionadas con el juego.</div>
+<table>
+  <tr>
+    <td>
+      <h2>Alcance</h2>
+      <div align="justify">Este manual cubre todas las funciones principales del videojuego educativo "DelCastellano". Sin embargo, tenga en cuenta que algunas características avanzadas o específicas pueden no estar incluidas en este manual. Además, se debe tener en cuenta que el manual no cubre el uso de herramientas externas o plataformas adicionales relacionadas con el juego.</div>
+    </td>
+    <td>
+      <img src="https://github.com/IsseiSenpai/TeChettos-Pruebas/blob/main/IMG-REDME/IDLE.gif" alt="Imagen" width="298" height="298">
+    </td>
+  </tr>
+</table>
 
 ## Guía de Uso  
 ### Descarga e Instalación  
