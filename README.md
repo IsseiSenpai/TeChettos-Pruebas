@@ -7,14 +7,26 @@
   <img src="https://github.com/IsseiSenpai/TeChettos-Pruebas/blob/main/IMG-REDME/1.png" alt="Imagen">
 </p>
 
-## ÍNDICE  
-- [Introducción](#introducción)  
-- [Objetivo del Manual](#objetivo-del-manual)  
-- [Audiencia](#audiencia)  
-- [Alcance](#alcance)  
-- [Guía de Uso](#guía-de-uso)
-- [Link de Descargas y de Interés](#link-de-descargas-y-de-interés) 
-- [Preguntas Frecuentes](#preguntas-frecuentes)  
+<div style="display: flex;">
+  <div style="width: 50%;">
+    <h2>ÍNDICE</h2>
+    <ul>
+      <li><a href="#introducción">Introducción</a></li>
+      <li><a href="#objetivo-del-manual">Objetivo del Manual</a></li>
+      <li><a href="#audiencia">Audiencia</a></li>
+      <li><a href="#alcance">Alcance</a></li>
+      <li><a href="#guía-de-uso">Guía de Uso</a></li>
+      <li><a href="#link-de-descargas-y-de-interés">Link de Descargas y de Interés</a></li>
+      <li><a href="#preguntas-frecuentes">Preguntas Frecuentes</a></li>
+    </ul>
+  </div>
+  <div style="width: 50%;">
+    <p align="center">
+      <img src="https://github.com/IsseiSenpai/TeChettos-Pruebas/blob/main/IMG-REDME/EnemigoEDLE.gif" alt="Imagen">
+    </p>
+  </div>
+</div>
+
 
 ## Introducción  
 <div align="justify">El manual de usuario del videojuego educativo "DelCastellano" tiene como objetivo proporcionar a los usuarios una guía completa sobre cómo utilizar y aprovechar al máximo todas las funciones y características de la aplicación. Este manual está diseñado para ayudar a los jugadores a comprender el juego, realizar las acciones necesarias y resolver cualquier problema que puedan encontrar durante su experiencia de juego.</div>
