@@ -92,7 +92,7 @@
 - Accede a la opción "Configuración" en el menú principal para ajustar las preferencias del juego, como el volumen de sonido y los controles.
 
 ## Link de Descargas y de Interés
-- [Intro del juego](https://drive.google.com/file/d/1O21gj3pHyQ64tx0JuGmxtMeLChRX8vSC/view?usp=sharing)
+- [Intro del juego](https://drive.google.com/file/d/1O21gj3pHyQ64tx0JuGmxtMeLChRX8vSC/view)
 - [Video promocional](URL_de_descarga_video_promocional)
 - [Recursos gráficos](https://github.com/IsseiSenpai/TeChettos-Pruebas/raw/main/ARCHIVOS-INTRO-DelCastellano-V-2.0.3/ARCHIVOS-INTRO-DelCastellano-V-2.0.3.rar)
 - [Informe curricular de la app](URL_de_descarga_informe_curricular)
